@@ -7,6 +7,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://x-hamza47.github.io/coffee-shop/)
 
 [About](#about) · [Preview](#preview) · [Features](#features) · [Coffee Menu](#coffee-menu) · [Tech Stack](#tech-stack) · [Getting Started](#getting-started) · [Project Structure](#project-structure) · [License](#license) · [Author](#author)
 
